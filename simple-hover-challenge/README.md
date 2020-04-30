@@ -1,4 +1,4 @@
-# Challenge 1: Responsive Design
+# Challenge 2: A Simple Hover
 
 ## Supporting Scrimba
 

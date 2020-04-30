@@ -1,4 +1,4 @@
-# Challenge 1: Responsive Design
+# Animating with GreenSock Animation Platform (GSAP)
 
 ## Supporting Scrimba
 

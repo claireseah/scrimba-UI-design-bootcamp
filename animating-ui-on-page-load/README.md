@@ -1,4 +1,4 @@
-# Challenge 1: Responsive Design
+# Challenge 3: Animating UI on Page Load
 
 ## Supporting Scrimba
 
